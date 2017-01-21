@@ -1,0 +1,8 @@
+{
+  "name": "pokemon-proxy-server",
+  "description": "Proxy server for pokemon api reqeusts.",
+  "repository": "https://github.com/Oeromilk/pokemon-proxy-server",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
